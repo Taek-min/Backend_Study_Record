@@ -2,6 +2,7 @@
 
 ## 유튜브 클론코딩 (node.js)
 > 강의: https://nomadcoders.co/wetube
+
 > 실습 저장소: https://github.com/Taek-min/wetube
 
 ### 1 [2021 UPDATE] INTRODUCTION
