@@ -3,6 +3,6 @@
 ## Day01
 - [x] ~~#1.0 ❤️ 2021 Update Announcement ❤️ (02:39)~~
 
-전체적으로 들을만 했는데 object라는건 잘 이해가 안돼
-
-일단 강의 계속 들어볼게
+controller, route, template, session, middleware 뭔지는 잘 모르겠지만
+이제 배워나가면 되니까~
+재밌을거 같다.
