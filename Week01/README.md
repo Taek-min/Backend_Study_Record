@@ -19,3 +19,4 @@ Internet Exploler는  브라우저로 치지않으니 빠르게 제거하자
 오류는 개발자를 성장 시킨대
 질문 할 일이 생기면 https://nomadcoders.co/wetuebe/lectures/1
 지금도 답변 달아주시려나..
+> 질문 답변은 항상 해주는걸로 알아 근데 언제 답변 올지는 모름
