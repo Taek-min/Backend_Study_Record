@@ -11,7 +11,7 @@
 - [x] ~~#1.1 Requirements (05:06)~~
 - [x] ~~#1.2 Watch This (07:45)~~
 - [x] ~~#1.3 What is NodeJS (06:39)~~
-- [ ] #1.4 What is NPM (05:13)
+- [x] ~~#1.4 What is NPM (05:13)~~
 
 ### 2 [2021 UPDATE] SET UP
 
