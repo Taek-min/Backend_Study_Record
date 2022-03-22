@@ -17,7 +17,7 @@
 
 - [x] ~~#2.0 Your First NodeJS Project (08:15)~~
 - [x] ~~#2.1 Installing Express (12:00)~~
-- [ ] #2.2 Understanding Dependencies (07:53)
+- [x] ~~#2.2 Understanding Dependencies (07:53)~~
 - [ ] #2.3 The Tower of Babel (10:38)
 - [ ] #2.4 Nodemon (08:00)
 
