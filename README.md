@@ -19,7 +19,7 @@
 - [x] ~~#2.1 Installing Express (12:00)~~
 - [x] ~~#2.2 Understanding Dependencies (07:53)~~
 - [x] ~~#2.3 The Tower of Babel (10:38)~~
-- [ ] #2.4 Nodemon (08:00)
+- [x] ~~#2.4 Nodemon (08:00)~~
 
 ### 3 [2021 UPDATE] INTRODUCTION TO EXPRESS
 
