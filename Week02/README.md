@@ -29,6 +29,31 @@ https://babeljs.io/ nodejs가 이해하지 못하는 자바스크립트가 있�
 처음으로 오류가 나서 해결하는데 골치가 아팠다.
 소스코드를 활용하면 쉽게 해결가능!!
 
+## Day11
+- [x] ~~#3.0 Your First Server (12:03)~~
+
+사용자는 서버에 request하고 서버는 request를 listen한다.
+
+## Day12
+- [x] ~~#3.1 GET Requests (05:05)~~
+
+http 서버끼리 의사소통하는 방법
+http request는 웹사이트에 접속하고 서버에 정보를 보내는 방법
+GET(get this page) == HTTP method
+
+## Day13
+- [x] ~~#3.2 GET Requests part Two (09:42)~~
+
+request 다루는 법을 배움
+세계에서 제일 느린 웹사이트를 만들었다.
+
+## Day14
+- [x] ~~#3.3 Responses (11:23)~~
+res.end() 함수에 대하여 배웠다.
+request, respond 이개념을 잘 익혀야 할거같다.
+
+
+
 
 
 

@@ -23,10 +23,10 @@
 
 ### 3 [2021 UPDATE] INTRODUCTION TO EXPRESS
 
-- [ ] #3.0 Your First Server (12:03)
-- [ ] #3.1 GET Requests (05:05)
-- [ ] #3.2 GET Requests part Two (09:42)
-- [ ] #3.3 Responses (11:23)
+- [x] ~~#3.0 Your First Server (12:03)~~
+- [x] ~~#3.1 GET Requests (05:05)~~
+- [x] ~~#3.2 GET Requests part Two (09:42)~~
+- [x] ~~#3.3 Responses (11:23)~~
 - [ ] #3.4 Recap (06:28)
 - [ ] #3.5 Middlewares part One (09:17)
 - [ ] #3.6 Middlewares part Two (11:40)
